@@ -5,8 +5,17 @@ The author is a full-time System Administrator and a part-time Software Develope
 At the moment I have the following things I'm working on:
 
 - The System Administrator Code of Conduct
-- PowerShell Enterprise Scripting Standard
+- PowerShell Enterprise Scripting Standard - PES
+
+  PowerShell scripting is very powerful and essential but in the most companies there is nothing which domesticates the fantasy of the administrators in writing more or less not maintabable code. This should be a try.
+- PES Templates
+
+  PowerShell template files to kick off with the PES-Standard
 - GPO Best Practices and Naming Standard
-- PowerShell Modul CLIOutputDecoder
+
+  GPOs are very important objects to configure endpoints in most of the companies working with Microsoft Active Directory but to avoid an environment which is hard to understand, chnage or debug the administrator has to follow some rules and use a meaningful naming standard.
+- [PowerShell Module CLIOutputDecoder](https://github.com/KrizKodez/CLIOutputDecoder)
+
+  A lot of classic CLI tools are still useful but produce only text output. This module converts this text output into PowerShell objects in a declaritive way using so called Decoders.
 
  
