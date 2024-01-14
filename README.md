@@ -11,7 +11,7 @@ The author is a full-time System Administrator and a part-time Software Develope
 - **PowerShell Enterprise Scripting Standard - PES**
 
   PowerShell scripting is very powerful and essential but in the most companies there is nothing which domesticates the fantasy of the administrators in writing more or less not maintainable code. This should be a try.
-- **PES Templates**
+- **[PES Templates](https://github.com/KrizKodez/PESTemplates)**
 
   PowerShell template files to kick off with the PES-Standard
 - **GPO Best Practices and Naming Standard**
