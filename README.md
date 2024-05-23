@@ -14,7 +14,7 @@ The author is a full-time System Administrator and a part-time Software Develope
 - **[PES Templates](https://github.com/KrizKodez/PESTemplates)**
 
   PowerShell template files to kick off with the PES-Standard
-- **GPO Best Practices and Naming Standard**
+- **[GPO Best Practices and Naming Standard](https://github.com/KrizKodez/GPONamingStandardBestPractices)**
 
   GPOs are very important objects to configure endpoints in most of the companies working with Microsoft Active Directory but to avoid an environment which is hard to understand, change or debug the administrator has to follow some rules and use a meaningful naming standard.
 - **[PowerShell Module CLIOutputDecoder](https://github.com/KrizKodez/CLIOutputDecoder)**
