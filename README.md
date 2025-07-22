@@ -21,4 +21,9 @@ The author is a full-time System Administrator and a part-time Software Develope
 
   A lot of classic CLI tools are still useful but produce only text output. This module converts this text output into PowerShell objects in a declaritive way using so called Decoders (only a bunch of RegExs).
 
+- **[PowerShell Solution UpdateQueryGroup](https://github.com/KrizKodez/UpdateQueryGroup)**
+
+  With this script, the author tries to present a new solution with some new ideas for an old problem, the dynamic updating of groups in the Microsoft Active Directory. The procedure is purely declarative and stored directly in the group object.
+
+
  
