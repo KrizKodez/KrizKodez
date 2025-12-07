@@ -25,5 +25,7 @@ The author is a full-time System Administrator and a part-time Software Develope
 
   With this script, the author tries to present a new solution with some new ideas for an old problem, the dynamic updating of groups in the Microsoft Active Directory. The procedure is purely declarative and stored directly in the group object.
 
+- **[PowerShell Solution Delegate GPO Permissions](https://github.com/KrizKodez/DelegateGPOPermissions)**
 
- 
+  The script is a simple solution to delegate permissions for creating and managing Active Directory GPOs to different groups following Least Privilege principle.
+  
