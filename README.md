@@ -7,13 +7,12 @@ The author is a full-time System Administrator and a part-time Software Develope
 
 - **The System Administrator Code of Conduct**
 
-  If system administration is more of a craft, what would be the rules to distinguish a good craftsman from a bad one. 
-- **PowerShell Enterprise Scripting Standard - PES**
+  If system administration is more of a craft, what would be the rules to distinguish a good craftsman from a bad one.
 
-  PowerShell scripting is very powerful and essential but in the most companies there is nothing which domesticates the fantasy of the administrators in writing more or less not maintainable code. This should be a try.
-- **[PES Templates](https://github.com/KrizKodez/PESTemplates)**
+- **[Enterprise PowerShell Standard - EPS](https://github.com/KrizKodez/EnterprisePowerShellStandard)**
 
-  PowerShell template files to kick off with the PES-Standard
+  PowerShell scripting is very powerful and essential but in the most companies there is nothing which domesticates the fantasy of the administrators in writing more or less not maintainable code. This should be a try. The repo contains rules and template files to kick off with the EPS-Standard.
+
 - **[GPO Best Practices and Naming Standard](https://github.com/KrizKodez/GPONamingStandardBestPractices)**
 
   GPOs are very important objects to configure endpoints in most of the companies working with Microsoft Active Directory but to avoid an environment which is hard to understand, change or debug the administrator has to follow some rules and use a meaningful naming standard.
